@@ -4,7 +4,7 @@ int main() {
 	float suma=0;
 	float mitja;
 	float nou_valor;
-	int numero_repeticions=0;
+	int numero_repeticions=0.0;
 	char consulta='s';
 	
 	while(consulta=='s') {
